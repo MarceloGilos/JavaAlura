@@ -20,23 +20,9 @@
         },
         {
             "type": "java",
-            "name": "Desafio",
-            "request": "launch",
-            "mainClass": "Desafio",
-            "projectName": "PrimeiroProjeto_30322fe3"
-        },
-        {
-            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Desafio",
-            "request": "launch",
-            "mainClass": "Desafio",
-            "projectName": "PrimeiroProjeto_30322fe3"
         }
     ]
 }
